@@ -35,7 +35,7 @@ An interactive data visualization dashboard built using **Plotly Dash** to analy
 
 ## 📸 Dashboard Preview
 
-![Dashboard](SpaceX%20dashboard.png)
+![Dashboard](SpaceX%20Dashboard.png)
 ![Dashboard](Payload%20range%20of%20SpaceX.png)
 
 ---
